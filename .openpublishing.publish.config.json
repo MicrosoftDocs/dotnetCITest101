@@ -31,16 +31,16 @@
         ]
       },
       "ECMA2Yaml": {
-        "SourceXmlFolder": "dotnet/xml",
-        "OutputYamlFolder": "dotnet/api",
+        "SourceXmlFolder": "dotnetCITest101/xml",
+        "OutputYamlFolder": "dotnetCITest101/api",
         "Flatten": true,
-        "id": "dotnet-template"
+        "id": "dotnetCITest101"
       },
       "SplitTOC": [
-        "dotnet/api/dotnet-template/toc.yml"
+        "dotnetCITest101/api/dotnetCITest101/toc.yml"
       ],
       "DiffFolder": [
-        "dotnet/api"
+        "dotnetCITest101/api"
       ]
     }
   ],
